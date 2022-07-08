@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  tinder-pets-api:
+    build: .
+    ports:
+      - "8080:8080"
