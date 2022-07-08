@@ -1,4 +1,34 @@
-# tinder_pets
+# Tinder for Cats and Dogs API 
+
+Tinder for Cats and Dogs API implementation using dart_frog 🐸
+
+You can find the details at [July Flutter Challenge](https://flutterchallenge.dev/lets-make-an-api) and API information in this [API Definition](https://tinder-cat-dog-api.herokuapp.com/swagger.html#/)
+
+## Roadmap
+
+
+
+✅ Build the same API endpoints with the Dart 🐸 framework
+
+✅ Use [Hive package](https://pub.dev/packages/hive) as a lightweight and blazing fast key-value database
+
+✅ Implement basic authentication workflow. Generate and validate JWT tokens. 
+
+
+## Steps to use it 🚀
+
+### 📦 Install the dart_frog cli from pub.dev
+dart pub global activate dart_frog_cli
+
+### 📦 Install dependencies
+dart pub global activate dart_frog_cli
+
+### Build models and Hive type adapters
+flutter packages pub run build_runner build --delete-conflicting-outputs
+
+### 🏁 Start the dev server
+dart_frog dev
+
 
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
