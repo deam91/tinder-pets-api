@@ -2,6 +2,8 @@
 
 Tinder for Cats and Dogs API implementation using dart_frog 🐸
 
+Take your preferred REST client and test it [here! 🐸🚀](https://tinder-pets-api-production.up.railway.app/)
+
 You can find the details at [July Flutter Challenge](https://flutterchallenge.dev/lets-make-an-api) and API information in this [API Definition](https://tinder-cat-dog-api.herokuapp.com/swagger.html#/)
 
 ## Roadmap
